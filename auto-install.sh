@@ -19,7 +19,6 @@ else
 fi
 
 # Download and install java 21 LTS if its not already installed
-#!/bin/bash
 
 # Define the minimum required Java version
 required_version="1.8"
